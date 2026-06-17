@@ -1,4 +1,4 @@
-# ESLAB FINAL — 太鼓達人 × EMG 打擊
+# ESLAB FINAL — EMG × poping
 
 STM32L475（B-L475E-IOT01）WiFi 打擊感測 + PC 太鼓節奏遊戲 + WS2812 判定燈條。
 

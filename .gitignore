@@ -1,0 +1,16 @@
+# IDE
+.metadata/
+RemoteSystemsTempFiles/
+.recommenders/
+**/.settings/
+
+# Build
+**/Debug/
+**/Release/
+*.elf
+*.bin
+*.map
+
+# Python
+**/__pycache__/
+*.py[cod]

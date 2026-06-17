@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "title": "",
+  "audio": "..\\music\\music2.mp3",
+  "audio_offset_ms": 0,
+  "notes": [
+    {
+      "t_ms": 25913,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 26479,
+      "kind": "don"
+    },
+    {
+      "t_ms": 27018,
+      "kind": "don"
+    },
+    {
+      "t_ms": 27068,
+      "kind": "both"
+    },
+    {
+      "t_ms": 28184,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 29230,
+      "kind": "both"
+    },
+    {
+      "t_ms": 29818,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 30335,
+      "kind": "don"
+    },
+    {
+      "t_ms": 31473,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 32110,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 32709,
+      "kind": "don"
+    },
+    {
+      "t_ms": 33762,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 34931,
+      "kind": "don"
+    },
+    {
+      "t_ms": 36513,
+      "kind": "both"
+    },
+    {
+      "t_ms": 37110,
+      "kind": "both"
+    },
+    {
+      "t_ms": 38278,
+      "kind": "both"
+    },
+    {
+      "t_ms": 39047,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 39346,
+      "kind": "both"
+    },
+    {
+      "t_ms": 40468,
+      "kind": "don"
+    },
+    {
+      "t_ms": 41613,
+      "kind": "both"
+    },
+    {
+      "t_ms": 42729,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 43313,
+      "kind": "both"
+    },
+    {
+      "t_ms": 43877,
+      "kind": "both"
+    },
+    {
+      "t_ms": 44892,
+      "kind": "don"
+    },
+    {
+      "t_ms": 46038,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 46639,
+      "kind": "don"
+    },
+    {
+      "t_ms": 47175,
+      "kind": "both"
+    },
+    {
+      "t_ms": 48379,
+      "kind": "don"
+    },
+    {
+      "t_ms": 49414,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 50548,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 51101,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 51685,
+      "kind": "don"
+    },
+    {
+      "t_ms": 52233,
+      "kind": "both"
+    },
+    {
+      "t_ms": 52800,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 53404,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 53973,
+      "kind": "don"
+    },
+    {
+      "t_ms": 54456,
+      "kind": "don"
+    },
+    {
+      "t_ms": 55027,
+      "kind": "both"
+    },
+    {
+      "t_ms": 56152,
+      "kind": "both"
+    },
+    {
+      "t_ms": 56732,
+      "kind": "both"
+    },
+    {
+      "t_ms": 57330,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 58439,
+      "kind": "both"
+    },
+    {
+      "t_ms": 59538,
+      "kind": "don"
+    },
+    {
+      "t_ms": 60120,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 60669,
+      "kind": "both"
+    },
+    {
+      "t_ms": 61236,
+      "kind": "both"
+    },
+    {
+      "t_ms": 64618,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 65674,
+      "kind": "don"
+    },
+    {
+      "t_ms": 66794,
+      "kind": "both"
+    },
+    {
+      "t_ms": 67894,
+      "kind": "ka"
+    },
+    {
+      "t_ms": 69047,
+      "kind": "don"
+    },
+    {
+      "t_ms": 70231,
+      "kind": "both"
+    },
+    {
+      "t_ms": 71249,
+      "kind": "both"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # ESLAB FINAL — EMG × poping
 
-Demo影片:(https://youtube.com/shorts/CknD9QqBr9I?si=0QjDkoFZjNGkWaWx)
-Demo簡報:(https://www.canva.com/design/DAHJPcepCaU/_wl4to50Ly4HzJk8iGyGVQ/edit)
+Demo影片:(https://youtube.com/shorts/CknD9QqBr9I?si=0QjDkoFZjNGkWaWx) 
+Demo簡報:(https://www.canva.com/design/DAHJPcepCaU/_wl4to50Ly4HzJk8iGyGVQ/edit) 
 書面報告:(https://docs.google.com/document/d/1WFh-oC56S-G0ikniF8K_2EKcr2EdeVMEUIX0V3lNYX4/edit?tab=t.0)
 
 ## 專案結構

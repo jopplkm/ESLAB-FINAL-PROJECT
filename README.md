@@ -1,13 +1,15 @@
 # ESLAB FINAL — EMG × poping
 
-STM32L475（B-L475E-IOT01）WiFi 打擊感測 + PC 太鼓節奏遊戲 + WS2812 判定燈條。
-
+Demo影片: https://youtube.com/shorts/CknD9QqBr9I?si=0QjDkoFZjNGkWaWx
+Demo簡報: https://www.canva.com/design/DAHJPcepCaU/_wl4to50Ly4HzJk8iGyGVQ/edit
 GitHub: [jopplkm/ESLAB-FINAL-PROJECT](https://github.com/jopplkm/ESLAB-FINAL-PROJECT)
+書面報告: https://docs.google.com/document/d/1WFh-oC56S-G0ikniF8K_2EKcr2EdeVMEUIX0V3lNYX4/edit?tab=t.0
 
 ## 專案結構
 
 ```
-ESLAB-FINAL-PROJECT/     ← 本 repo 根目錄（clone 後的資料夾名稱可自訂）
+ESLAB-FINAL-PROJECT/
+├── REPORT.pdf           # 書面報告
 ├── README.md
 ├── ESLAB_FINAL.ioc      # CubeMX 設定
 ├── ESLAB_FINAL.launch   # Debug 設定
